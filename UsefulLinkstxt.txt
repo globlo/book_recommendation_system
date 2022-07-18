@@ -1,0 +1,5 @@
+
+Download Dataset
+http://www2.informatik.uni-freiburg.de/~cziegler/BX/
+
+Click CSV Dump [25.475 KB] under Download
